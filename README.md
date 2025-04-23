@@ -35,7 +35,7 @@ This project builds and trains a **Neural Network** using **TensorFlow** to pred
 - Add more layers, regularization, or modify learning rate for better results.
 
 ---
-## 🚀 Model Summary
+##  Model Summary
 
 ```python
 model = tf.keras.Sequential([
